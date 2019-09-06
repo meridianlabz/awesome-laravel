@@ -417,6 +417,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Vue Boilerplate](https://github.com/alefesouza/laravel-vue-boilerplate)
 * [Laravel Enso](https://github.com/laravel-enso/enso)
 * [Laravel Template with Vue](https://github.com/wmhello/laravel_template_with_vue) 
+* [Genesis API for Laravel, REST](https://github.com/thegenesisproject/Genesis-API-Laravel-REST)
+* [Genesis API for Laravel, GraphQL](https://github.com/thegenesisproject/Genesis-API-Laravel-GraphQL)
 
 ## Codebases for Reference
 
